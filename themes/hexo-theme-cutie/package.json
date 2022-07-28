@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "animate.css": "^3.6.1",
+    "fuse.js": "^3.4.6",
+    "gitment": "0.0.3",
+    "headroom.js": "^0.11.0",
+    "jdenticon": "^2.1.0",
+    "js-cookie": "^2.2.0",
+    "jshashes": "^1.0.8",
+    "lg-zoom": "^1.1.0",
+    "loadjs": "^4.2.0",
+    "noty": "^3.2.0-beta",
+    "striptags": "^3.1.1",
+    "tippy.js": "^5.2.1",
+    "unzip": "^0.1.11"
+  }
+}
